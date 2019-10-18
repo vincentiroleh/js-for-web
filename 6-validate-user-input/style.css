@@ -1,0 +1,14 @@
+.passwordMatchBorder {
+    border: thin solid green;
+}
+
+.passwordNotMatchBorder {
+    border: thin solid red;
+}
+
+.hideMessage {
+    display: none;
+}
+.showErrorMessage {
+    display: block;
+}
